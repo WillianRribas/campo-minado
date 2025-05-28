@@ -75,12 +75,6 @@ python campo_minado.py
 - Caso queira testar rapidamente, pode redirecionar a entrada a partir de um arquivo de texto contendo os campos.
 - Implementação eficiente e legível, utilizando listas e laços aninhados para verificar as posições adjacentes.
 
-## 🚀 Melhorias Futuras
-
-- Adicionar suporte à leitura e escrita de arquivos.
-- Criar uma interface gráfica para tornar o uso mais intuitivo.
-- Implementar testes automatizados para validar diferentes cenários de entrada.
-
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por [Seu Nome].
+Projeto desenvolvido por Willian Ribas.
